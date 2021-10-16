@@ -19,6 +19,7 @@
 # Awesome USI
 ## First Semester
 - [**USI Latex**](https://github.com/Steeven9/USI-LaTeX) - 2018 - SA1
+- [**The Shell**](https://github.com/bvlj/usi_sa1_theshell_ch) - 2018 - SA1
 - [**Chess Expect**](https://github.com/Steeven9/Chess-expect) - 2018 - PF1
 - [**Catastrophic Software Failures**](https://github.com/Hoormazd1379/SA1GRP1CSS) - 2019 - SA1
 - [**Broken Links Finder**](https://github.com/MicheleCattaneo/broken-links-finder) - 2019 - SA1
@@ -43,6 +44,7 @@
 
 ## Sixth Semester
 - [**Jung**](https://github.com/Steeven9/Jung) - 2021 - Bachelor Project
+- [**Expression Generator**](https://expressiontutor.org/) - 2021 - Bachelor Project
 
 # Cheatsheets
 ## Code
