@@ -4,7 +4,7 @@
 <!-- [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-usi/) -->
 
 ## Contents
-- [Awsome USI](#awesome-usi)
+- [Awesome USI](#awesome-usi)
   - [First Semester](#first-semester)
   - [Second Semester](#second-semester)
   - [Third Semester](#third-semester)
