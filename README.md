@@ -9,8 +9,8 @@
   - [Second Semester](#second-semester)
   - [Third Semester](#third-semester)
   - [Fourth Semester](#fourth-semester)
-  - Fifth Semester
-  - Sixth Semester
+  - [Fifth Semester](#fifth-semester)
+  - [Sixth Semester](#sixth-semester)
 - [Cheatsheets](#cheatsheets)
   - [Code](#code)
   - [Pdf](#pdf)
