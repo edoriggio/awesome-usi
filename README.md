@@ -14,23 +14,35 @@
 - [Cheatsheets](#cheatsheets)
   - [Code](#code)
   - [Pdf](#pdf)
+- [Misc](#misc)
 
 # Awesome USI
 ## First Semester
+- [**USI Latex**](https://github.com/Steeven9/USI-LaTeX) - 2018 - SA1
+- [**Chess Expect**](https://github.com/Steeven9/Chess-expect) - 2018 - PF1
 - [**Catastrophic Software Failures**](https://github.com/Hoormazd1379/SA1GRP1CSS) - 2019 - SA1
 - [**Broken Links Finder**](https://github.com/MicheleCattaneo/broken-links-finder) - 2019 - SA1
 - [**BST Traversal Visualization**](https://github.com/MicheleCattaneo/BST-traversal-visualization) - 2019 - PF1
 
 ## Second Semester
+- [**V.I.P.**](https://github.com/Steeven9/V.I.P.) - 2019 - SA2
 - [**Game of Life**](https://github.com/edoriggio/game-of-life) - 2020 - PF2
 
 ## Third Semester
+- [**The Legend of Ajax**](https://github.com/Steeven9/WA-game-group) - 2019 - SA3
 - [**Checq.me**](https://github.com/edoriggio/checq.me) - 2020 - SA3
 
 ## Fourth Semester
 - [**Computer Networking CTF**](https://github.com/edoriggio/computer-networking-ctf) - 2021 - CN
 - [**Networking Project WebServer**](https://github.com/MicheleCattaneo/Networking_Project_WebServer) - 2021 - CN
 - [**CN Web Server**](https://github.com/edoriggio/cn-web-server) - 2021 - CN
+
+## Fifth Semester
+- [**IR Project**](https://github.com/Steeven9/IR-project) - 2020 - IR
+- [**Hotel Search Engine**](https://github.com/hotel-se) - 2021 - IR
+
+## Sixth Semester
+- [**Jung**](https://github.com/Steeven9/Jung) - 2021 - Bachelor Project
 
 # Cheatsheets
 ## Code
@@ -40,4 +52,5 @@
 ## Pdf
 - [**CS Cheatsheets**](https://github.com/edoriggio/cs-cheatsheets) - 2021
 
-
+# Misc
+- [**USI Rooms**](https://github.com/Steeven9/USIrooms) - 2021
