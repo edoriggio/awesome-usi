@@ -23,6 +23,7 @@ This is a collection of projects made by Università della Svizzera Italiana (US
 - [**USI Latex**](https://github.com/Steeven9/USI-LaTeX) - 2018 - SA1
 - [**The Shell**](https://github.com/bvlj/usi_sa1_theshell_ch) - 2018 - SA1
 - [**Chess Expect**](https://github.com/Steeven9/Chess-expect) - 2018 - PF1
+- [**Knob and Switch Computer**](https://github.com/bvlj/usi_pf1_knob_switch_racket) - 2018 - PF1
 - [**Catastrophic Software Failures**](https://github.com/Hoormazd1379/SA1GRP1CSS) - 2019 - SA1
 - [**Broken Links Finder**](https://github.com/MicheleCattaneo/broken-links-finder) - 2019 - SA1
 - [**BST Traversal Visualization**](https://github.com/MicheleCattaneo/BST-traversal-visualization) - 2019 - PF1
@@ -42,6 +43,7 @@ This is a collection of projects made by Università della Svizzera Italiana (US
 
 ## Fifth Semester
 - [**IR Project**](https://github.com/Steeven9/IR-project) - 2020 - IR
+- [**Ok Video**](https://github.com/bvlj/usi_ir_video_se) - 2021 - IR
 - [**Hotel Search Engine**](https://github.com/hotel-se) - 2021 - IR
 
 ## Sixth Semester
@@ -58,3 +60,4 @@ This is a collection of projects made by Università della Svizzera Italiana (US
 
 # Misc
 - [**USI Rooms**](https://github.com/Steeven9/USIrooms) - 2021
+- [**iCorsi3<sup>pro</sup>**](https://github.com/bvlj/usi_icorsi3_pro) - 2021
