@@ -1,9 +1,9 @@
-# <img align="right" src="https://github.com/edoriggio/awesome-usi/blob/main/assets/usi%201.png" alt="awesome-usi" title="awesome-usi" width="220" height="220" /> Awesome USI
+# <img align="right" src="https://github.com/edoriggio/awesome-usi/blob/main/assets/usi%201.png" alt="awesome-usi" title="awesome-usi" width="230" height="230" /> Awesome USI
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!-- [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-usi/) -->
 
-This is a collection of projects made by Università della Svizzera Italiana (USI) students during their regular semester courses. 
+This is a collection of projects made by Università della Svizzera Italiana (USI) Computer Science students during their regular semester courses. 
 
 ## Contents
 - [Awesome USI](#awesome-usi)
